@@ -1,0 +1,27 @@
+﻿  Render.cpp
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(110): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(112): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(113): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(323): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(324): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(713): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(714): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(728): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(729): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(730): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1360): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1361): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1403): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1447): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1448): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1507): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1508): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1917): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1918): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(1919): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(2552): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(2554): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(2885): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(2886): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+e:\visual studio 2017\projects\laba2\openglrememberproj\render.cpp(2887): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  OpenGLrememberProj.vcxproj -> E:\Visual Studio 2017\projects\laba2\Debug\OpenGLrememberProj.exe

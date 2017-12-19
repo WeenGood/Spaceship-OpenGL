@@ -1,0 +1,32 @@
+﻿  Render.cpp
+Render.cpp(110): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(112): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(113): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(324): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+Render.cpp(325): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+Render.cpp(714): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(715): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(729): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(730): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(731): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1364): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1365): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1407): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1451): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1452): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1511): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1512): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1921): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1922): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(1923): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(2558): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(2560): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(2891): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(2892): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+Render.cpp(2893): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  Создание кода
+  3 of 338 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OpenGLrememberProj.vcxproj -> E:\Visual Studio 2017\projects\laba2\Release\OpenGLrememberProj.exe
